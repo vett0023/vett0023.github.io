@@ -1,0 +1,86 @@
+html{
+    background-color: #aad4cf;
+}
+body{
+    
+
+    margin-left: 215px;
+    margin-right: 280px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #d7f2ee;
+    position: relative;
+    
+}
+h2{
+    font-size: 30px;
+}
+
+.wrapper{
+    position: relative;
+    margin: auto;
+}
+.wide-starfish{
+    position: relative;
+}
+
+main{
+    padding: 10px;
+    bottom:100px;
+}
+
+.heading{
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 180px;
+    font-size: x-large;
+    color: white;
+}
+nav ol li{
+    display:inline-block;
+    margin-left: 5px;
+    width: 301px;
+    
+}
+
+nav ol a{
+    color: black;
+    display: block;
+    position: relative;
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    border-right: 3px solid black;
+    height: 25px;
+    bottom: 40px;
+}
+
+
+.starfish{
+    width: 200px;
+    padding-right: 20px;
+    float: left;
+}
+
+
+ol{
+    list-style: none;
+}
+
+.box{
+    max-width: 2000px
+    height: 500px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+#yourname,#email{
+    width: 880px;
+}
+
+#message{
+    width: 880px;
+    height:70px
+}
