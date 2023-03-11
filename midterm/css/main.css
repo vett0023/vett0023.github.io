@@ -64,13 +64,11 @@ nav ol a{
 }
 
 
-ol{
-    list-style: none;
-}
+
 
 .box{
     max-width: 2000px;
-    height: 500px;
+    height: 300px;
     border: 1px solid black;
     padding: 20px;
     margin: 30px;
