@@ -69,7 +69,7 @@ ol{
 }
 
 .box{
-    max-width: 2000px
+    max-width: 2000px;
     height: 500px;
     border: 1px solid black;
     padding: 20px;
