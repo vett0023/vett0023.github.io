@@ -1,0 +1,252 @@
+/* mobile */
+
+
+
+html{
+    font-size: 17px;
+    font-family:sans-serif,'Open sans';
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.section1  {
+    background-color: #222;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    line-height: 3;
+    list-style: none;  
+    
+}
+.pic {
+    text-align: left;
+}
+
+
+.image1 {
+background-color: #c78c06;
+text-align: center;
+background-position: 0px;
+padding-left: 20px;
+}
+
+
+
+nav ul li {
+list-style: none;
+color: #c78c06;
+padding: 20px;
+
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 100px; 
+    
+}
+#search{
+    margin-bottom: 15px;
+    width: 80%;
+}
+
+.section2 {
+    background-image: url(../images/main-banner.jpg); 
+    padding: 100px;
+    
+    
+     
+}
+
+h1{
+    color: white;
+}
+
+.box{
+    color: #c78c06;
+    display: block;
+}
+
+.section3{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+    margin-top: 20px;
+    width: 600px;
+
+
+}
+.h{
+    color: black;
+}
+/* Arranged whole section*/
+.section4  {
+ font-size: larger;
+
+}
+.heading4{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+}
+.h4{
+    color: black;
+   
+    
+}
+
+.box2{
+    
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+
+.heading5{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+}
+.h4{
+    color: black;
+   
+    
+}
+
+.box3{
+    
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+.heading6{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+}
+.h4{
+    color: black;
+   
+    
+}
+
+.box4{
+    
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+.heading7{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+}
+.h4{
+    color: black;
+   
+    
+}
+
+.box5{
+    
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+.heading8{
+    background-color: #ffe6ac;
+    padding-top: 20px;
+}
+.h4{
+    color: black;
+   
+    
+}
+
+.box6{
+    
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px;
+
+}
+
+.section5 {
+    
+    background-image: url(../images/vision.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.box7 {
+    background-color:black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+    text-align:center;
+    padding-top: 40px; 
+}
+
+.h12{
+    color: #222;
+    font-size: 27px;
+    
+}
+
+.heading11{
+    background-color:#ffe6ac;
+    width: 600px;
+    padding-top: 20px;
+}
+
+.heading12{
+    background-color:#ffe6ac;
+    width: 600px;
+    padding-top: 20px;
+}
+/* whole section width arranged*/
+#yourname   {
+    width:600px;
+}
+
+#email {
+    width: 600px;
+}
+
+#message{
+    width: 600px;
+    height: 100px;
+}
+
+.h20 {
+    color:#222;
+    padding: 10px;
+}
+/footer background color/
+.footer {
+    background-color:#222;
+    color: #c78c06;
+}
+
+
+
+/*desktop */
+@media screen and (min-width: 720){
+    
