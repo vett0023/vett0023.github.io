@@ -74,8 +74,6 @@ h5{
 }
 
 .contact{/*to style the contact box*/
-    size: 50px;
-    
     box-sizing: content-box;
     width: 93%;
     height:350px;
