@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+  
+  /* Mobile View - max-width: 768px */
+  @media (max-width: 768px) {
+    body {
+      background-color: #a0eef8; /* Change background for mobile */
+    }
+  
+    .container {
+      padding: 10px;
+      max-width: 100%;  /* Full width for mobile */
+    }
+  
+    h1 {
+      font-size: 1.5em; /* Smaller heading on mobile */
+    }
+  
+    p {
+      font-size: 1em; /* Adjust text size for mobile */
+    }
+  }
